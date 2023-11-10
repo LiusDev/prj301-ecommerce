@@ -20,7 +20,7 @@ In package `context.DBContext.java`, change the connection string to your databa
 
 ### 4. Run project
 
-Email: quydx@jsclub.dev
-Password: 123456
+- Email: quydx@jsclub.dev
+- Password: 123456
 
 Enjoy it!
